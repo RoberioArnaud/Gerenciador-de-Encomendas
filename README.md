@@ -29,4 +29,4 @@ Este projeto está sob a licença CC BY-NC.
 
 ---
 
-Desenvolvido por **Robério Arnaud Filho e João Andre de Medeiros Arnaud** 🚀
+Desenvolvido por **Robério Santos Arnaud Filho e João Andre de Medeiros Arnaud** 🚀
