@@ -25,7 +25,7 @@ O objetivo deste projeto é facilitar o controle de encomendas recebidas em **co
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
+Este projeto está sob a licença CC BY-NC.
 
 ---
 
